@@ -1,0 +1,3 @@
+本目录下所有文件是针对py-faster-rcnn源码做出的对应修改，以适应本模型。
+datasets/下文件请拷贝到py-faster-rcnn/lib下对应的datasets文件夹
+faster_rcnn_alt_opt/文件夹请拷贝到models/pascal_voc/下对应的faster_rcnn_alt_opt文件夹

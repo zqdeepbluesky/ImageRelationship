@@ -1,0 +1,5 @@
+Action,Object1,Object2,Relationship,Level
+Deny,*,Bob,kiss,7
+Deny,Alice,*,kiss,7
+Deny,Alice,Bob,hug,3
+Accept,Alice,Bob,hands,1
